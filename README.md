@@ -1,1 +1,1 @@
-# SAKI
+# Software applications with AI
