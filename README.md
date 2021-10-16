@@ -2,5 +2,5 @@
 
 Small code snippets for rapid proptotyping of practical applications: 
 - Naive Bayes Spam classification
-- Entity REcognition in Resumees
+- Entity Recognition in Resumees
 - Reinfocement Learning for Warehouse Storage
